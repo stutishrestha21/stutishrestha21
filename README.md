@@ -1,8 +1,7 @@
-- 👋 Hi, I’m tSuti Shrestha
+- 👋 Hi, I’m Stuti Shrestha
 - 💞️ I’m interested in Data Science and Computer Science
-- 📖 I know Java, Python, R , Excel, Access and JavaScript.
-- 🌱 I’m currently learning R script and C programing.
-- 👀 I’m looking to internship.
+- 📖 I know Java, Python, R , Excel, Access, R script and JavaScript.
+- 👀 I’m looking for internship.
 - 📫 How to reach me email- stutistha21@gmail.com
 
 <!---
